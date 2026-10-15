@@ -1,0 +1,37 @@
+{
+  "app": "Curiosidades do Mundo",
+  "exportedAt": "2026-10-08T08:04:27.508Z",
+  "usuarios": {
+    "us": [
+      {
+        "id": "p1790243541621",
+        "nome": "Hinata",
+        "av": "🦋"
+      }
+    ],
+    "atual": "p1790243541621"
+  },
+  "dados": {
+    "p1790243541621": {
+      "theme": "0",
+      "font": "0",
+      "caps": "1",
+      "fsize": "6",
+      "cfgHi": "1",
+      "cfgSyl": "0",
+      "cfgAudio": "1",
+      "voz": "0",
+      "pais": "173",
+      "lidas": "{\"AL1\":\"11111111\",\"C2\":\"1111111111\",\"D1\":\"0001\",\"C1\":\"1111\",\"VN\":\"0000001\",\"S2\":\"0001\",\"C7\":\"1\",\"EAC\":\"000001\",\"QF13\":\"00000001\",\"LP1\":\"11\",\"EX26\":\"00000001\",\"F1\":\"000000001\",\"A8\":\"1\"}",
+      "favs": "{}",
+      "posPais": "{\"EX14\":1,\"HRM\":7,\"H1\":0,\"AL1\":8,\"C2\":9,\"C1\":4,\"VN\":21,\"MR1\":3,\"C7\":0,\"S1\":4,\"EX19\":1,\"QF13\":7,\"BR\":24,\"QF7\":13,\"LP1\":1,\"C9\":3,\"MG\":10,\"EX26\":7,\"EX27\":0}",
+      "ultPais": "C2",
+      "ultCur": "9",
+      "marcos": "{\"10\":1,\"25\":1}",
+      "ajustes": "0",
+      "modoLinha": "0",
+      "palavrasAprendidas": "{\"radioativo\":{\"def\":\"que solta um tipo de energia invisível, e por isso precisa de cuidado especial.\",\"sec\":\"🔬 Cientistas E Inventores\",\"sub\":\"Marie Curie\",\"ico\":\"⚠️\"},\"predadores\":{\"def\":\"animais que caçam e comem outros animais para sobreviver.\",\"sec\":\"🐾 Reino Animal\",\"sub\":\"Defesas E Disfarces\",\"ico\":\"🎨\"},\"característica\":{\"def\":\"um traço ou uma qualidade que ajuda a reconhecer e diferenciar algo ou alguém.\",\"sec\":\"🐾 Reino Animal\",\"sub\":\"Defesas E Disfarces\",\"ico\":\"🎨\"}}",
+      "ultimasLidas": "[{\"code\":\"C2\",\"idx\":9},{\"code\":\"A8\",\"idx\":0},{\"code\":\"C2\",\"idx\":8},{\"code\":\"C2\",\"idx\":7},{\"code\":\"F1\",\"idx\":8},{\"code\":\"EX26\",\"idx\":7},{\"code\":\"LP1\",\"idx\":1},{\"code\":\"LP1\",\"idx\":0},{\"code\":\"QF13\",\"idx\":7},{\"code\":\"EAC\",\"idx\":5}]"
+    }
+  }
+}

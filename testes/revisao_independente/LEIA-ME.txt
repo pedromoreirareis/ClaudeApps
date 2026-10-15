@@ -1,0 +1,7 @@
+Scripts escritos pelo REVISOR-CHEFE independente (08/10/2026), guardados aqui como prova de 2 itens da matriz
+do RELATORIO_CHECAGEM_curiosidades_v2.0.md (achado Y2 do revisor):
+  h9_cross.py   = celulares na v1.8 e na v2.0 na mesma família (convivem sem perder nada)
+  h12_fumaca.py = passeio pelo app antigo (leitura, desafio, conquistas, dicionário, favoritas) comparado com a v1.8
+Foram rodados na máquina do revisor, com as pastas dele (caminhos /home/claude/revisor/...). Para rodar de novo,
+ajuste os caminhos do início de cada script para o pacote-netlify/ deste zip e para testes/versao_anterior_v1.8/.
+Nunca falam com o Firebase real (Firebase de mentira).

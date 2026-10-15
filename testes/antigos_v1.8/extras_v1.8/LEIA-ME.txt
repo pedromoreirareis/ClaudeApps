@@ -1,0 +1,14 @@
+Testes avulsos (não são baterias completas). Feitos na v1.8 (24/09/2026) e na passagem (08/10/2026).
+Rodar depois de "bash testes/preparar_pastas.sh".
+
+test_v18.py      — 6 conferências: carrega sem erro, cadastro, pop-up do código abre/confirma/fecha, nenhuma caixinha do navegador.
+                   Usa /home/claude/z18. Resultado em 24/09/2026: 6/6.
+test_sw18c.py    — o service worker registra e o cache se chama curiosidades-mundo-v1-8. Usa /home/claude/z18 (localhost).
+test_sw18d.py    — abre sem internet com o cache v1-8. Usa /home/claude/z18 (localhost).
+test_popup.py    — pop-up do código nos 2 modos (digitar / código vindo do arquivo). PRECISA de um servidor já rodando:
+                   (cd /home/claude/t/site && python3 -m http.server 8899 &)  — e tira um print no scratchpad antigo
+                   (caminho da conversa anterior; troque o caminho do screenshot se der erro).
+medir_popup.py   — mede se o campo e os botões do pop-up ficam visíveis em 7 tamanhos (deitado/em pé, com teclado).
+                   Uso: python3 medir_popup.py <pasta-para-o-print>. Usa /home/claude/t/site. Só mede (sem ✅/❌).
+chaves.py        — abre o app e lista as chaves do localStorage criadas (0 crianças, depois de cadastrar e marcar).
+                   Usa /home/claude/z e /home/claude/t/site.
