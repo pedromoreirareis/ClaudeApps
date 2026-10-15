@@ -1,0 +1,100 @@
+{
+  "app": "coruja-explica",
+  "versao": 3,
+  "exportedAt": "2026-10-15T00:39:09.334Z",
+  "usuario": {
+    "nome": "Hana",
+    "av": "🦉"
+  },
+  "textos": [
+    {
+      "id": "t1790329756219l02is",
+      "titulo": "Camila e o cavalo",
+      "texto": "TÍTULO: Camila e o cavalo\n\nTEXTO:\nCamila tem um cavalo.\n\nO cavalo é o Caco.\n\nCamila cuida do cavalo Caco.\n\nCamila come cocada.\n\nO cavalo come capim.\n\nCamila cavalga no cavalo Caco.\n\nEla é esperta.\n\nO cavalo obedece a Camila.",
+      "criadoEm": "2026-09-25T09:49:16.216Z",
+      "alteradoEm": "2026-09-28T12:56:03.486Z",
+      "leituras": 5,
+      "ultimaLeitura": "2026-09-27T13:27:29.543Z",
+      "arquivado": true,
+      "arquivadoEm": "2026-09-28T16:20:35.458Z",
+      "estadoEm": "2026-09-28T16:20:35.458Z"
+    },
+    {
+      "id": "t1790335052293lnhco",
+      "titulo": "O macaco",
+      "texto": "TÍTULO: O macaco\n\nTEXTO:\nO macaco pula. \n\nO macaco sobe. \n\nO macaco pega a banana.\n\nEle come a banana. \n\nO macaco pula de novo.",
+      "criadoEm": "2026-09-25T11:17:32.277Z",
+      "alteradoEm": "2026-09-28T12:56:20.139Z",
+      "leituras": 5,
+      "ultimaLeitura": "2026-09-26T23:05:56.874Z",
+      "arquivado": true,
+      "arquivadoEm": "2026-09-28T16:20:36.827Z",
+      "estadoEm": "2026-09-28T16:20:36.827Z"
+    },
+    {
+      "id": "t1790337142773yj9pp",
+      "titulo": "Ana Laura e o gato",
+      "texto": "TÍTULO: Ana Laura e o gato\n\nTEXTO:\nAna Laura tem um gato.\n\nO gato fica na sala.\n\nAna Laura pega uma bola.\n\nEla joga a bola.\n\nO gato vai até a bola.",
+      "criadoEm": "2026-09-25T11:52:22.767Z",
+      "alteradoEm": "2026-09-25T20:56:33.225Z",
+      "leituras": 2,
+      "ultimaLeitura": "2026-09-25T20:52:52.845Z",
+      "arquivado": true,
+      "arquivadoEm": "2026-09-28T16:20:40.762Z",
+      "estadoEm": "2026-09-28T16:20:40.762Z"
+    },
+    {
+      "id": "t1790337344450zsnxg",
+      "titulo": "Rita foi ao mercado.",
+      "texto": "Rita foi ao mercado. \n\nEla foi com o pai.\n\nRita viu uma fruta. \n\nO pai comprou a fruta. \n\nOs dois voltaram para casa.",
+      "criadoEm": "2026-09-25T11:55:44.450Z",
+      "alteradoEm": "2026-09-26T10:24:59.249Z",
+      "leituras": 5,
+      "ultimaLeitura": "2026-10-04T22:40:19.871Z"
+    },
+    {
+      "id": "t1790337498184698f6",
+      "titulo": "Sofia viu a lua.",
+      "texto": "Sofia viu a lua. \n\nA lua estava no céu. \n\nEla chamou o pai.\n\nOs dois olharam para cima. \n\nSofia ficou feliz.",
+      "criadoEm": "2026-09-25T11:58:18.183Z",
+      "alteradoEm": "2026-09-25T11:58:39.057Z",
+      "leituras": 2,
+      "ultimaLeitura": "2026-09-25T11:58:41.564Z"
+    },
+    {
+      "id": "t1790418962276vakpi",
+      "titulo": "A mãe fez um bolo.",
+      "texto": "A mãe fez um bolo. \n\nHana viu o bolo na mesa. \n\nEla chamou o pai.\n\nO pai deu um pedaço para Hana. \n\nHana comeu e pediu mais.",
+      "criadoEm": "2026-09-26T10:36:02.259Z",
+      "alteradoEm": "2026-09-26T10:36:02.259Z"
+    },
+    {
+      "id": "t1790419084792uowbs",
+      "titulo": "A vovó mora numa casa.",
+      "texto": "A vovó mora numa casa.\n\nHinata foi até lá com a mamãe.\n\nA vovó deu bolo para Hinata.\n\nHinata comeu o bolo.\n\nDepois, ela deu um beijo na vovó.",
+      "criadoEm": "2026-09-26T10:38:04.792Z",
+      "alteradoEm": "2026-09-26T10:38:04.792Z",
+      "leituras": 1,
+      "ultimaLeitura": "2026-09-27T13:29:25.473Z"
+    },
+    {
+      "id": "t1790612501779y1li9",
+      "titulo": "O café da manhã",
+      "texto": "TÍTULO: O café da manhã\n\nTEXTO:\nLuana acordou cedo.\n\nA mamãe fez um bolo.\n\nLuana tomou leite com mel.\n\nEla comeu um pedaço.\n\nDepois lavou a boca.",
+      "criadoEm": "2026-09-28T16:21:41.779Z",
+      "alteradoEm": "2026-09-28T16:21:41.779Z",
+      "leituras": 1,
+      "ultimaLeitura": "2026-09-28T22:06:54.070Z"
+    },
+    {
+      "id": "t1791376477823vlyqp",
+      "titulo": "AN EN IN ON UN - AM EM IM OM UM",
+      "texto": "AN EN IN ON UN\n\nAM EM IM OM UM\n\nMANGA \n\nTANGA \n\nMANTA \n\nPANDA \n\nBANDA \n\nPENTE \n\nMENTE \n\nSENTE \n\nVENDO \n\nCOMENDO \n\nPINTO \n\nVINDO \n\nSINTO \n\nBINGO \n\nMINTO \n\nBOMBA \n\nPOMBO \n\nBONDE\n\nCOMBO \n\nCONGO \n\nBUNDA \n\nZUMBA\n\nPUMBA \n\nTUMBA \n\nBUMBA",
+      "criadoEm": "2026-10-07T12:34:37.814Z",
+      "alteradoEm": "2026-10-11T12:45:55.617Z",
+      "leituras": 5,
+      "ultimaLeitura": "2026-10-11T12:45:38.254Z"
+    }
+  ],
+  "excluidos": {}
+}
